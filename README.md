@@ -86,12 +86,12 @@ CMD(명령 프롬프트)를 관리자 권한으로 실행한 후, pip install li
 ## 실행 방법
 - CSV 출력
 ```sh
-"C:\Program Files\Python312\Scripts\lizard.exe" . --csv > lizard.csv
+"C:\Program Files\Python314\Scripts\lizard.exe" . --csv > lizard.csv
 ```
 
 - Jenkins용 xml 출력
 ```sh
-"C:\Program Files\Python312\Scripts\lizard.exe" . --xml > lizard.xml
+"C:\Program Files\Python314\Scripts\lizard.exe" . --xml > lizard.xml
 ```
 
 ## CSV 출력했을 때 각 열 정보
