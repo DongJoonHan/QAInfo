@@ -94,6 +94,11 @@ CMD(명령 프롬프트)를 관리자 권한으로 실행한 후, pip install li
 "C:\Program Files\Python314\Scripts\lizard.exe" . --xml > lizard.xml
 ```
 
+- 인코딩 에러가 발생하는 경우, 다음을 먼저 실행
+```shell
+set PYTHONIOENCODING=utf-8
+```
+
 ## CSV 출력했을 때 각 열 정보
 <img width="1091" height="412" alt="image" src="https://github.com/user-attachments/assets/ad550a0d-3ba7-4057-b4ed-02a9bf1e9419" />
 
