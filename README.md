@@ -65,6 +65,10 @@ cppcheck.exe --addon="C:\TestTools\misra.json"  --xml --xml-version=2 . 2> cppch
 
 
 # CPD
+
+## 사전 조건
+JAVA가 설치되어 있어야 함 (1.8 이상)
+
 ## 다운로드
 https://github.com/pmd/pmd/releases/tag/pmd_releases%2F6.55.0
 에서, https://github.com/pmd/pmd/releases/download/pmd_releases%2F6.55.0/pmd-bin-6.55.0.zip 다운로드
